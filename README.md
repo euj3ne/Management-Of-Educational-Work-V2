@@ -4,5 +4,4 @@ Development of a full-fledged website with an administrative panel in the PHP pr
 For testing: https://portfolio.euj3ne.ru/sites/eduwork/
 
 Login: admin OR teacher
-
 Password: admin OR teacher
