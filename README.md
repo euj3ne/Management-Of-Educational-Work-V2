@@ -8,3 +8,7 @@ For testing: https://portfolio.euj3ne.ru/sites/eduwork/
 Login: admin OR teacher
 
 Password: admin OR teacher
+
+
+# Installation
+PostgreSQL database, installation /config/setup.php.
